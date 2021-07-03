@@ -2,3 +2,10 @@ h1{
     background-color: chartreuse;
     color: azure;
 }
+.korim{
+    background-color: rgb(33, 235, 83);
+    color: darkblue;
+}
+p{
+    font-size: 20px;
+}
